@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Day15HashTable\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj": {}
+    "C:\\Users\\User\\Desktop\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Day15HashTable\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj": {
+    "C:\\Users\\User\\Desktop\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Day15HashTable\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj",
         "projectName": "DataStructureUsingHashTables",
-        "projectPath": "C:\\Users\\User\\Desktop\\Day15HashTable\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\DataStructureUsingHashTables.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Day15HashTable\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\DataStructureUsingHashTables\\DataStructureUsingHashTables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
